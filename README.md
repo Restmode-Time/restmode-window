@@ -117,4 +117,11 @@ Use the in-app settings or tray menu to enable/disable startup at login. This cr
 
 ## License
 
-MIT License - see LICENSE file for details. 
+MIT License - see LICENSE file for details.
+
+## Download InactivityWatch Pro
+
+- [Windows (.exe)](https://github.com/Restmode-Time/restmode-window/releases/download/v1.0.0/InactivityWatchPro-setup.exe)
+- [macOS (.dmg)](https://github.com/Restmode-Time/restmode-window/releases/download/v1.0.0/InactivityWatchPro.dmg)
+- [Linux (.AppImage)](https://github.com/Restmode-Time/restmode-window/releases/download/v1.0.0/InactivityWatchPro.AppImage)
+- [Android (.apk)](https://github.com/Restmode-Time/restmode-window/releases/download/v1.0.0/InactivityWatchPro.apk) 
